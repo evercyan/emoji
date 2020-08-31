@@ -2,6 +2,8 @@
 
 > 基于 go wails 和 vue2 实现的表情锅生成工具 mac app
 
+[点我下载试用](https://github.com/evercyan/emoji/releases/download/v0.0.1/emoji.tar.gz)
+
 ---
 
 #### QA
